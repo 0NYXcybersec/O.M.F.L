@@ -5,9 +5,9 @@ I have recently started taking interest in cybersecurity, especially the fields 
 The laboratory will include 3 branches of tools, and those being network tools, file analysis tools, and registry analysis tools.
 ### Network tools
 ```python
-Subdomain Scanner : IN DEVELOPMENT
-Port Scanner : FINISHING
-Network Scanner : FINISHING
+Subdomain scanner : IN DEVELOPMENT
+Port scanner : FINISHING
+Network scanner : FINISHING
 ```
 ### Files analysis
 ```python
