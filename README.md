@@ -9,6 +9,10 @@ Subdomain scanner : IN DEVELOPMENT
 Port scanner : FINISHING
 Network scanner : FINISHING
 ```
+### Intelligence
+```python
+Phone information : UPLOADED
+```
 ### Files analysis
 ```python
 PDF Metadata extractor : FINISHING
