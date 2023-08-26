@@ -1,4 +1,4 @@
-# 0NYX's portable forensics laboratory
+# 0NYX's mobile forensics laboratory
 ## Introduction
 I have recently started taking interest in cybersecurity, especially the fields of forensic analysis and OSINT, and I wanted to learn the basics of forensics. I wanted to have a tool which I could play with, without the hassle of downloading a million programs. Because of that I decided to develop my own tool, for everyone to also play with and learn forensics.
 ## Features
